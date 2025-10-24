@@ -85,23 +85,38 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 
 ---
 
-### ![alt text](image.png) **MERN Employee Details**
-> MERN Employee Details using **React.js (Vite + Tailwind CSS + Material-UI)** and **NodeJs + MongoDB** backend for APIs, authentication, and data handling.
+### 🚀 **MERN Employee Details**
+> MERN Employee Details using **React.js (Vite + Tailwind CSS + Material-UI)** and **Node.js + MongoDB** backend for APIs, authentication, and data handling.
 
-**Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, NodeJs, MongoDB   
+**🧰 Tech Stack:**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+</p>
+
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/MERN)
 
 ---
 
----
+### ⚡ **Event Handling**
+> Event Handling app using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)**.
 
-### ![alt text](image-1.png) **Event Handling**
-> Event Handling using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)** .
+**🧰 Tech Stack:**
 
-**Tech Stack:** Next.js, Vite, Tailwind CSS, Material-UI, Turbo Repo  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/turborepo/turborepo-original.svg" alt="Turbo Repo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+</p>
+
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Event)
-
----
 
 ## 🎓 Education
 
