@@ -71,7 +71,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 > Real-time streaming app using **React.js (Vite + Tailwind CSS + Material-UI)** and **Spring Boot** backend for APIs, authentication, and data handling.
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, Spring Boot  
-🔗 [View on GitHub](#https://github.com/JAYARAMAN0406/Mediastreaming)
+🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Mediastreaming)
 
 ---
 
