@@ -13,10 +13,14 @@
 
 ## 🧠 About Me
 
-I’m a **user-focused Full Stack Developer** with expertise in **Spring Boot** and **Java**, passionate about building optimized **backend systems** and **intuitive frontend interfaces**.  
-I value **usability, scalability, and clean code**, and I enjoy collaborating with teams to deliver robust web applications.
+I’m a **Full Stack Developer** passionate about creating efficient, scalable, and user-friendly web applications.  
+With hands-on experience across both **frontend and backend**, I’ve built multiple real-world projects using **Spring Boot, React.js, Node.js, and Next.js**.
 
-> 🚀 Always committed to continuous learning and staying updated with the latest technologies and trends in full stack development.
+### 🚀 Key Highlights:
+- Developed a **Media Streaming Application** using *React.js (Vite + Tailwind CSS + Material-UI)* with a *Spring Boot + MySQL* backend for real-time API integration and authentication.
+- Built a **MERN Employee Management System** with *React.js, Node.js, and MongoDB* for seamless CRUD operations and secure data handling.
+- Created an **Event Handling Platform** using *Next.js (Turbo Repo + Tailwind CSS + Material-UI)* for efficient event tracking and dynamic UI rendering.
+- Designed interactive web utilities like a **Basic Calculator** using *HTML, CSS, and JavaScript* to reinforce core logic-building and UI principles.
 
 ---
 
