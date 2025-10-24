@@ -70,7 +70,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 ### 🌐 **Media Streaming Application**
 > Real-time streaming app using **React.js (Vite + Tailwind CSS + Material-UI)** and **Spring Boot** backend for APIs, authentication, and data handling.
 
-**Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, Spring Boot  
+**🧰 Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, Spring Boot, MySQL  
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Mediastreaming)
 
 ---
@@ -78,7 +78,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 ### 🧮 **Basic Calculator**
 > Simple calculator using **HTML**, **CSS**, and **JavaScript** to strengthen foundational web development concepts.
 
-**Tech Stack:** HTML, CSS, JavaScript  
+**🧰 Tech Stack:** HTML, CSS, JavaScript  
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Basic-Calculator)
 
 ---
@@ -88,16 +88,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 ### 🚀 **MERN Employee Details**
 > MERN Employee Details using **React.js (Vite + Tailwind CSS + Material-UI)** and **Node.js + MongoDB** backend for APIs, authentication, and data handling.
 
-**🧰 Tech Stack:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-</p>
+**🧰 Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, NodeJs, MongoDB
 
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/MERN)
 
@@ -106,15 +97,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 ### ⚡ **Event Handling**
 > Event Handling app using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)**.
 
-**🧰 Tech Stack:**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/turborepo/turborepo-original.svg" alt="Turbo Repo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-</p>
+**🧰 Tech Stack:** Next.js, Vite, Tailwind CSS, Material-UI, Turbo Repo
 
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Event)
 
