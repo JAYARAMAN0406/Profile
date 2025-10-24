@@ -85,7 +85,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 
 ---
 
-### 🧮 **MERN Employee Details**
+### ![alt text](image.png) **MERN Employee Details**
 > MERN Employee Details using **React.js (Vite + Tailwind CSS + Material-UI)** and **NodeJs + MongoDB** backend for APIs, authentication, and data handling.
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, NodeJs, MongoDB   
@@ -95,8 +95,8 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 
 ---
 
-### 🧮 **Event Handling**
-> MERN Employee Details using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)** .
+### ![alt text](image-1.png) **Event Handling**
+> Event Handling using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)** .
 
 **Tech Stack:** Next.js, Vite, Tailwind CSS, Material-UI, Turbo Repo  
 🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Event)
