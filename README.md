@@ -114,13 +114,6 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaraman040699&show_icons=true&theme=blueberry" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraman040699&layout=compact&theme=blueberry" height="165" />
-</p>
-
----
 
 ⭐️ *If you like my work, consider giving my repositories a star!*
