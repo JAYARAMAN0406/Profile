@@ -1,46 +1,53 @@
-# 👋 Hi, I'm Jayaraman M
+<h1 align="center">👋 Hi, I'm Jayaraman M</h1>
 
-**💻 Full Stack Developer | ☕ Java | ⚙️ Spring Boot | ⚛️ React.js | 🌐 API Integration**
+<h3 align="center">💻 Full Stack Developer | ☕ Java | ⚙️ Spring Boot | ⚛️ React.js | 🌐 API Integration</h3>
 
-📍 *Kanchipuram, Tamil Nadu, India*  
-📧 [jayaraman040699@gmail.com](mailto:jayaraman040699@gmail.com)  
-📞 +91 6380225068  
-🔗 [LinkedIn](https://linkedin.com/in/jayaraman-m-816287228) | [GitHub](https://github.com/jayaraman040699)
+<p align="center">
+  📍 Kanchipuram, Tamil Nadu, India <br/>
+  📧 <a href="mailto:jayaraman040699@gmail.com">jayaraman040699@gmail.com</a> <br/>
+  🔗 <a href="https://linkedin.com/in/jayaraman-m-816287228">LinkedIn</a> |
+  <a href="https://github.com/jayaraman040699">GitHub</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **user-focused Full Stack Developer** with expertise in **Spring Boot and Java**, passionate about building optimized **backend systems** and **intuitive frontend interfaces**.  
+I’m a **user-focused Full Stack Developer** with expertise in **Spring Boot** and **Java**, passionate about building optimized **backend systems** and **intuitive frontend interfaces**.  
 I value **usability, scalability, and clean code**, and I enjoy collaborating with teams to deliver robust web applications.
 
-> 🚀 *Always committed to continuous learning and staying updated with the latest technologies and trends in full stack development.*
+> 🚀 Always committed to continuous learning and staying updated with the latest technologies and trends in full stack development.
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-### 🖥️ Backend Development
-- Spring Boot Framework  
-- Java Development  
-- RESTful API Design  
-- Database Integration  
-- Microservices Architecture  
+### 💾 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🎨 Frontend Development
-- React.js  
-- Angular JS  
-- Web Design & UI Updates  
-- Tailwind CSS  
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 🧩 Tools & Technologies
-- Git Version Control  
-- API Integration  
-- Troubleshooting and Debugging  
-
-### 🧠 Design & UX
-- User Experience Design  
-- Usability Testing  
+### ⚙️ Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
 ---
 
@@ -52,16 +59,16 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 
 - Designed and implemented scalable backend services using **Spring Boot** and **Java**.  
 - Built responsive and dynamic front-end applications using **React.js**.  
-- Integrated APIs for seamless frontend–backend communication.  
-- Utilized **Git** for version control and collaborated effectively within the development team.  
-- Participated in code reviews and mentored junior developers.
+- Integrated **APIs** for seamless frontend–backend communication.  
+- Utilized **Git** for version control and collaborated effectively within the team.  
+- Participated in **code reviews** and mentored junior developers.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌐 **Media Streaming Application**
-> Real-time media streaming app built using **React.js (Vite + Tailwind CSS + Material-UI)** and **Spring Boot** backend for APIs, authentication, and data handling.
+> Real-time streaming app using **React.js (Vite + Tailwind CSS + Material-UI)** and **Spring Boot** backend for APIs, authentication, and data handling.
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, Spring Boot  
 🔗 [View on GitHub](#)
@@ -69,8 +76,7 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 ---
 
 ### 🧮 **Basic Calculator**
-> Simple calculator using **HTML**, **CSS**, and **JavaScript** to strengthen foundational web development concepts.  
-Implements all core operations with a clean user interface.
+> Simple calculator using **HTML**, **CSS**, and **JavaScript** to strengthen foundational web development concepts.
 
 **Tech Stack:** HTML, CSS, JavaScript  
 🔗 [View on GitHub](#)
@@ -79,7 +85,7 @@ Implements all core operations with a clean user interface.
 
 ## 🎓 Education
 
-### 🎓 **Master of Science (M.Sc) in Computer Science**
+🎓 **Master of Science (M.Sc) in Computer Science**  
 **SRM Arts and Science College**, Chengalpattu, Tamil Nadu  
 📅 *2017 – 2022*
 
@@ -94,15 +100,26 @@ Implements all core operations with a clean user interface.
 📍 **Location:** Kanchipuram, Tamil Nadu  
 
 🔗 **Connect With Me:**
-- [LinkedIn](https://linkedin.com/in/jayaraman-m-816287228)
-- [GitHub](https://github.com/jayaraman040699)
+<p>
+  <a href="https://linkedin.com/in/jayaraman-m-816287228" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/jayaraman040699" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:jayaraman040699@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🏁 Footer
+## 📊 GitHub Stats
 
-© 2025 **Jayaraman M**  
-> “Always committed to continuous learning and keeping up with the latest technologies in web and backend development.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayaraman040699&show_icons=true&theme=blueberry" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaraman040699&layout=compact&theme=blueberry" height="165" />
+</p>
 
 ---
 
