@@ -79,7 +79,27 @@ I value **usability, scalability, and clean code**, and I enjoy collaborating wi
 > Simple calculator using **HTML**, **CSS**, and **JavaScript** to strengthen foundational web development concepts.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-🔗 [View on GitHub](#)
+🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Basic-Calculator)
+
+---
+
+---
+
+### 🧮 **MERN Employee Details**
+> MERN Employee Details using **React.js (Vite + Tailwind CSS + Material-UI)** and **NodeJs + MongoDB** backend for APIs, authentication, and data handling.
+
+**Tech Stack:** React.js, Vite, Tailwind CSS, Material-UI, NodeJs, MongoDB   
+🔗 [View on GitHub](https://github.com/JAYARAMAN0406/MERN)
+
+---
+
+---
+
+### 🧮 **Event Handling**
+> MERN Employee Details using **Next.js (Turbo Repo + Tailwind CSS + Material-UI)** .
+
+**Tech Stack:** Next.js, Vite, Tailwind CSS, Material-UI, Turbo Repo  
+🔗 [View on GitHub](https://github.com/JAYARAMAN0406/Event)
 
 ---
 
